@@ -1,6 +1,6 @@
 def base_hash
   h = {
-    railroads: "Yukon"
+    railroads: {}
   }
   h
 end
