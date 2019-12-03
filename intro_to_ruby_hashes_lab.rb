@@ -1,5 +1,7 @@
 def base_hash
-  h = {}
+  h = {
+    name: "Kate"
+  }
   h
 end
 
