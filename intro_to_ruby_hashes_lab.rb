@@ -14,6 +14,7 @@ def monopoly_with_second_tier
     railroads: {}
   }
   h[:pieces] = "pie"
+  h
 end
 
 def monopoly_with_third_tier
