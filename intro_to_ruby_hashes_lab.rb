@@ -62,7 +62,7 @@ def monopoly_with_fourth_tier
       },
       :names => {
         reading_railroad: {
-          mortgage_value: "$100"
+          "mortgage_value" => "$100"
         },
         b_and_o_railroad: {
           mortgage_value: "$400"
